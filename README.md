@@ -1,13 +1,13 @@
 # async-orange-Roberto_Echeverria-final-project
 ## Dataset
-[Dataset Name](https://www.example.com/link-to-dataset)
+[Merger and Acquisitions by Tech Companies](https://www.kaggle.com/datasets/shivamb/company-acquisitions-7-top-companies)
 
-## Why did I chose this dataset?
+## Why did I choose this dataset?
 
-[Placeholder for answer]
+[I chose this dataset to practice predictions with data while incorporating my interest in tech and business.]
 
 ## Progress
-- [ ] Picked dataset
+- [Y] Picked dataset
 - [ ] Defined 10 questions
 - [ ] Answered 10 questions using Pandas
 - [ ] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
