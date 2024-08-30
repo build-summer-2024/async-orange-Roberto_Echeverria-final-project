@@ -24,7 +24,7 @@
 
 - [ ] Question 3: [Most reoccuring word in types of businesses]
   - Answer: [The Top types of companies aquired have to do with software, managment, mobile, and service to name a few.]
-  - Visualization: ![Q3 Visualization](c:\Users\Roberto Echeverria\OneDrive\Desktop\b081df7c-a694-4f53-b70a-9503ab4cd00f.png)
+  - Visualization: ![Q3 Visualization](![alt text](image.png))
 
 - [ ] Question 4: [What months do these deals happen the most]
   - Answer: [Placeholder for answer]
