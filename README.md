@@ -40,7 +40,7 @@
 
 - [x] Question 7: [Portfolio of Microsoft?]
   - Answer: [There is an even split of different sectors in Microsofts acquisitions from 2020 - 2021.]
-  - Visualization: ![Q7 Visualization](![alt text](image-13.png))
+  - Visualization: ![Q7 Visualization](![alt text](image-17.png))
 
 - [x] Question 8: [Portfolio of Google?]
   - Answer: [Not many acquisitions from Google from 2020 - 2021.]
@@ -48,8 +48,8 @@
 
 - [x] Question 9: [Portfolio of Apple?]
   - Answer: [Only 2 acquisitions for Apple from 2020 - 2021 and a surprising one, a classical music streaming service!]
-  - Visualization: ![Q9 Visualization](![alt text](image-15.png))
+  - Visualization: ![Q9 Visualization](![alt text](image-16.png))
 
 - [x] Question 10: [What types of companies will be acquired in the future?]
-  - Answer: [Predicted number of Acquisitions in 2025 - About 35 by looking at the trend lines. Then I multiply the number of companies by the % of business types in the pie chart. For Ai - 14% of those 35 companies will be Ai Acquisitions, or about 5 of them.]
+  - Answer: [Predicted number of Acquisitions in 2025 - About 35 acquisitions will be made by the select few large companies in my dataset by looking at the trend lines. Then I multiply the number of companies by the % of business types in the pie chart. For Ai - 14% of those 35 companies will be Ai Acquisitions, or about 5 of them.]
   - Visualization: ![Q10 Visualization](![alt text](image-10.png) ![alt text](image-11.png) ![alt text](9a2a4aa7-f691-4c7f-b6a7-9be0b556fd24.png)  ![alt text](image-12.png))
