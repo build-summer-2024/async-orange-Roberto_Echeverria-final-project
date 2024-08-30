@@ -9,22 +9,22 @@
 ## Progress
 - [x] Picked dataset
 - [x] Defined 10 questions
-- [ ] Answered 10 questions using Pandas
-- [ ] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
-- [ ] Prepared presentation slides to present at graduation
+- [X] Answered 10 questions using Pandas
+- [X] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
+- [X] Prepared presentation slides to present at graduation
 
 ## Questions
 - [ ] Question 1: [What were the top companies making aquisistions ]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q1 Visualization](https://example.com/path-to-image-1.png)
+  - Answer: [From the data we can observe the top companies doing acquisitions amoung our tech companies with Microsoft in the lead with 250+ companies acquired since 1957.]
+  - Visualization: ![Q1 Visualization](c:\Users\Roberto Echeverria\OneDrive\Desktop\b192b084-b0b2-4dc1-addd-e00066b549ce.png)
 
 - [ ] Question 2: [Relationship between aquisitions and years]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
+  - Answer: [Throughout the years we can observe that the trend of these companies making acquisitions has increased substantially since 1998, peaking in 2014. The current trend of these companies making acquisitions is currently on a decline with around 40 per year.]
+  - Visualization: ![Q2 Visualization](c:\Users\Roberto Echeverria\OneDrive\Desktop\9a2a4aa7-f691-4c7f-b6a7-9be0b556fd24.png)
 
 - [ ] Question 3: [Most reoccuring word in types of businesses]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q3 Visualization](https://example.com/path-to-image-3.png)
+  - Answer: [The Top types of companies aquired have to do with software, managment, mobile, and service to name a few.]
+  - Visualization: ![Q3 Visualization](c:\Users\Roberto Echeverria\OneDrive\Desktop\b081df7c-a694-4f53-b70a-9503ab4cd00f.png)
 
 - [ ] Question 4: [What months do these deals happen the most]
   - Answer: [Placeholder for answer]
